@@ -2,15 +2,15 @@
 - by m0ses
 - Simple portListener wrote in Python
 
-####Before using:
+#### Before using:
 ```
   $ git clone https://github.com/m0sesOFFICIAL/portListener.git
   
   $ chmod +x portListener.py
 ```  
-####Using:
+#### Using:
 ```
   $ python portListener.py
  ``` 
   
-#ENJOY!
+# ENJOY!
