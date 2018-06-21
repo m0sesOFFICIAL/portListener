@@ -4,13 +4,13 @@
 
 #### Before using:
 ```
-  $ git clone https://github.com/m0sesOFFICIAL/portListener.git
+git clone https://github.com/m0sesOFFICIAL/portListener.git
   
-  $ chmod +x portListener.py
+chmod +x portListener.py
 ```  
 #### Using:
 ```
-  $ python portListener.py
+python portListener.py
  ``` 
   
 # ENJOY!
